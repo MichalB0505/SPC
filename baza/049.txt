@@ -1,0 +1,5 @@
+X0010
+Obserwowalnoœæ i macierze A, B, C (brak w docu)
+a) A i B
+b) B i C
+c) A, B i C (lub A i C)

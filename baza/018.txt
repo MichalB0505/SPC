@@ -1,0 +1,5 @@
+X1000
+System z³o¿ony mo¿na zidentyfikowaæ:
+a) znamy strukturê oraz po³¹czenia
+b) znamy tylko strukturê
+c) znamy tylko po³¹czenia

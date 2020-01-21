@@ -1,0 +1,6 @@
+X0010
+21. Uk³ady regulacji MFC s¹ dedykowane g³ównie dla:
+a) obiektów z czasem ci¹g³ym
+b) obiektów niestabilnych
+c) obiektów niestacjonarnych
+d) obiektów z histerez¹

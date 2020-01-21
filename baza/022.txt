@@ -1,0 +1,4 @@
+X1000
+Uk³ad ma charakter dyskretny: 
+a) jak na wyjœciu jest odpowiedŸ dyskretna
+b) gdy uk³ad steruj¹cy jest dyskretny

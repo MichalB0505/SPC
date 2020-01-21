@@ -1,0 +1,6 @@
+X1000
+Wyostrzenie to:
+a) Defuzyfikacja
+b) Addytywnoœæ
+c) Linearyzacja
+d) Rozmycie

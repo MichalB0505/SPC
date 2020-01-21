@@ -1,0 +1,6 @@
+X0010
+15. Wersjê równania stanu, w której wystêpuj¹ wspó³czynniki wielomianu charakterystycznego nazywamy:
+a) postaci¹ kardynaln¹
+b) postaci¹ optymaln¹
+c) postaci¹ kanoniczn¹
+d) postaci¹ normaln¹

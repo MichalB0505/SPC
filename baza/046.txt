@@ -1,0 +1,6 @@
+X1000
+Która warstwa w sterowaniu hierarchicznym jest po³o¿ona najwy¿ej:
+a)optymalizacji
+b)adaptacji
+c)sterowania bezpoœredniego
+d)identyfikacji

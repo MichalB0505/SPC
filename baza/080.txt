@@ -1,0 +1,6 @@
+X0100
+16. Obiekt opisany równaniem y(n) = u(n) * u(n-1) jest:
+a) liniowy, statyczny, z czasem dyskretnym
+b) nieliniowy, dynamiczny, z czasem dyskretnym
+c) nieliniowy, statyczny, z czasem ci¹g³ym
+d) liniowy, dynamiczny, z czasem ci¹g³ym

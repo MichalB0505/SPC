@@ -1,0 +1,6 @@
+X0010
+Transformata Laplace jest funkcj¹:
+a) rzeczywist¹ zmiennej rzeczywistej
+b) rzeczywist¹ zmiennej zespolonej
+c) zespolon¹ zmiennej zespolonej
+d) zespolon¹ zmiennej rzeczywistej

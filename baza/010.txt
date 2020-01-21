@@ -1,0 +1,6 @@
+X1000
+Ile razy odwraca sie macierz w rekurencyjnym algorytmie mnk ?
+0
+1
+N-1
+N
