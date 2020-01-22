@@ -1,5 +1,5 @@
-X0010
-Obserwowalnoœæ i macierze A, B, C (brak w docu)
+X001
+Obserwowalnoœæ zale¿y od macierzy:
 a) A i B
 b) B i C
-c) A, B i C (lub A i C)
+c) A i C

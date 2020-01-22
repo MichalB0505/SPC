@@ -4,4 +4,3 @@ a) niestacjonarnych
 b) stacjonarnych
 c) liniowych
 d) statycznych 
-

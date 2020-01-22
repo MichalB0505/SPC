@@ -1,4 +1,4 @@
-X1000
+X0010
 Przy malejacym wspolczynniku lambda w metodzie NK:
 wariancja maleje, obciazenie rosnie
 wariancja rosnie, obciazenie rosnie

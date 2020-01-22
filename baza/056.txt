@@ -1,5 +1,5 @@
 X0010
-Co oznacza ostatnia kolumna w macierzy A w postaci Kanonicznej
+Co oznacza ostatni wiersz w macierzy A w postaci Kanonicznej
 a) dudnienia rezonansowe
 b) miejsca zerowe mianownika
 c) wspó³czynniki wiel. char. macierzy A

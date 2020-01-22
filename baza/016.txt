@@ -1,6 +1,6 @@
-X0100
-Statystyka Jednostajny(0,1) , Normalny(0,1)
-a) EX > EY varY > VarX
-b) EX<EY var X> VarY
+X1000
+Statystyka: X = Jednostajny(0,1), Y = Normalny(0,1)
+a) EX>EY varX<varY
+b) EX<EY varX>varY
 c) EX<EY varX<VarY
 d) EX>EY varX>varY

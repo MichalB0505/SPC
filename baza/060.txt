@@ -1,5 +1,5 @@
 X1000
-Do swobodnego kszta³towania charakterystyki (jakieœ s³owo) regulatora s³u¿y technika:
+Do swobodnego kszta³towania charakterystyki rozmytego regulatora s³u¿y technika:
 a) look-up table
 b) ISOPE
 c) pole placement

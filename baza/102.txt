@@ -3,4 +3,4 @@ Zastosowanie metod rachunku wariacyjnego w zadaniu sterowania optymalnego prowad
 równania Hamiltona
 równania Eulera-Lagrangea
 równania Ricattiego
-równania Jacobiego_Bellmana
+równania Jacobiego-Bellmana
