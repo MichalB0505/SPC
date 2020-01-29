@@ -1,5 +1,6 @@
-X1000
-13. Obiekt o transmitancji K(z) = z / z+1 opisuje równanie ró¿nicowe:
-a) y n + y n-1 = u n
-b) y n - y n-1 = u n
-c) y n = u n + u n-1
+X0001
+Kiedy opisy transmitacyjny i za pomoc¹ równañ stanu s¹ równowa¿ne?
+zawsze
+gdy obiekt jest sterowalny
+gdy obiekt jest obserwowalny
+gdy obiekt jest zarówno sterowalny, jak i obserwowalny

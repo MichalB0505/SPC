@@ -1,6 +1,0 @@
-X0010
-Jedn¹ z technik numerycznych NK jest:
-a) Metoda ortogonalizacji Hermita
-b) Metoda propagacji wstecznej Hausdorffa
-c) Metoda odbiæ Householdera
-d) Metoda falek Haara

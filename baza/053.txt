@@ -1,6 +1,6 @@
-X0001
-MFC wykorzystuje siê w systemach:
-a) stabilnych
-b) niestabilnych
-c) stacjonarnych (odpornych)
-d) niestacjonarnych
+X1000
+Amplituda na wyjsciu przy pobudzeniu ukladu o K(s) = 1/(s+sqrt(3)) sygnalem 8sin(t+4)
+4
+2
+3
+1 

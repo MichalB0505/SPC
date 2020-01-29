@@ -1,5 +1,6 @@
-X0010
-Co oznacza ostatni wiersz w macierzy A w postaci Kanonicznej
-a) dudnienia rezonansowe
-b) miejsca zerowe mianownika
-c) wspó³czynniki wiel. char. macierzy A
+X1000
+O stabilnosci systemu liniowego decyduje
+postac rownan stanu
+postac rownan wyjscia
+warunki poczatkowe
+prof Mzyk

@@ -1,6 +1,6 @@
-X1000
-Który z operatorów nie jest typowy dla algorytmu genetycznego.
-projekcja
-selekcja
-krzy¿owanie
-mutacja
+X0100
+W jaki sposob sa polaczone ze soba model i obiekt w sterowaniu MFC?
+szeregowo
+rownolegle
+model pracuje w petli sprzezenia zwrotnego obiektu
+obiekt pracuje w petli sprzezenia zwrotnego modelu

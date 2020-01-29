@@ -1,5 +1,5 @@
 X1000
 Po³¹czenie szeregowe dwóch bloczków stabilnych da uk³ad:
-a) stabilny
-b) niestabilny
-c) nie wiadomo
+stabilny
+niestabilny
+nie wiadomo

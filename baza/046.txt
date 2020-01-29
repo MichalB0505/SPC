@@ -1,6 +1,6 @@
-X0100
-Która warstwa w sterowaniu hierarchicznym jest po³o¿ona najwy¿ej:
-a)optymalizacji
-b)adaptacji
-c)sterowania bezpoœredniego
-d)identyfikacji
+X1000
+Do swobodnego kszta³towania charakterystyki rozmytego regulatora s³u¿y technika:
+look-up table
+ISOPE
+pole placement
+SVD

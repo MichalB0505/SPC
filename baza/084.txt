@@ -1,6 +1,6 @@
-X0010
-21. Uk³ady regulacji MFC s¹ dedykowane g³ównie dla:
-a) obiektów z czasem ci¹g³ym
-b) obiektów niestabilnych
-c) obiektów niestacjonarnych
-d) obiektów z histerez¹
+X0100
+Zastosowanie metod rachunku wariacyjnego w zadaniu sterowania optymalnego prowadzi do
+równania Hamiltona
+równania Eulera-Lagrangea
+równania Ricattiego
+równania Jacobiego-Bellmana

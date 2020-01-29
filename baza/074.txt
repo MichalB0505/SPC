@@ -1,6 +1,6 @@
-X0001
-5. Obiekt opisany równaniem y(t) = u(t) + u'(t) jest:
-a) liniowy, statyczny, z czasem dyskretnym
-b) nieliniowy, dynamiczny, z czasem ci¹g³ym
-c) nieliniowy, statyczny, z czasem ci¹g³ym
-d) liniowy, dynamiczny, z czasem ci¹g³ym
+X0010
+Który skrót ma najwiêkszy zwi¹zek ze sterowaniem odpornym?
+MPC
+SVD
+MFC
+LS

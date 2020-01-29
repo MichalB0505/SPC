@@ -1,6 +1,5 @@
-X1000
-O stabilnosci systemu liniowego decyduje
-postac rownan stanu
-postac rownan wyjscia
-warunki poczatkowe
-prof Mzyk
+X100
+Im rz¹d astatyzmu UAR jest wiêkszy tym jego (zdolnoœci???) nad¹¿noœci:
+s¹ lepsze
+s¹ gorsze
+nie ma to znaczenia

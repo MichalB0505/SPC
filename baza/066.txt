@@ -1,6 +1,7 @@
-X0100
-Warunkami zgodnosci modeli jadrowych sa:
-h -> 0,		Nh -> 0
-h -> 0,		Nh -> inf
-h -> inf, 	Nh -> 0
-h -> inf, 	Nh -> inf
+X00010
+W optymalizacji dwupoziomowej zmienne górnego poziomu to:
+zmienne wiod¹ce
+zmienne nadrzêdne
+zmienne bezpoœrednie
+zmienne koordynuj¹ce
+zmienne korekcyjne

@@ -1,6 +1,6 @@
-X0010
-18. Zmniejszenie wspó³czynnika lambda w œledzeniu parametru obiektu metod¹ wa¿onych NK powoduje:
-a) wzrost wariancji, wzrost obci¹¿enia
-b) spadek wariancji, spadek obci¹¿enia
-c) wzrost wariancji, spadek obci¹¿enia
-d) spadek wariancji, wzrost obci¹¿enia
+X1000
+Wg zasady Pontryagina, sterowanie optymalne
+maksymalizujê funkcjê Hamiltona
+minimalizujê funkcjê Hamiltona
+maksymalizuje funkcjê Lagrangea
+minimalizuje funkcjê Lagrangea

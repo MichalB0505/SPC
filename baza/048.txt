@@ -1,5 +1,6 @@
-X0100
-Macierze podobne maj¹ takie same
-a) nic
-b) wektory i wartoœci w³asne, œlady, wyznaczniki
-c) wszystko
+X0010
+Do przyblizonej analizy ukladow nieliniowych stosuje sie metode:
+dekompozycji SVD
+kar i cen
+funkcji opisujacej
+Jacoby'ego

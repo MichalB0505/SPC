@@ -1,7 +1,6 @@
-X01000
-W postaci kanonicznej, w ostatnim wierszu macierzy przejœcia wystêpuj¹
-wartoœci w³asne ten macierzy
-wspó³czynniki wielomianu charakterystycznego 
-wartoœci wielomianu charakterystycznego 
-wartoœci wystêpuj¹ce w warunku pocz¹tkowym
-wartoœci szczególne rozk³adu SVD
+X0001
+Rozwi¹zanie minimalne sprzecznego uk³adu równañ liniowych istnieje:
+gdy kryterium NK ma unikalne optimum
+gdy istnieje jego rozwi¹zanie sprzê¿one
+wtedy i tylko wtedy gdy liczba równañ jest wiêksza od liczby zmiennych
+zawsze

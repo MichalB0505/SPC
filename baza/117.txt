@@ -1,6 +1,0 @@
-X1000
-Liczba niezerowych wartoœci szczególnych macierzy A jest równa:
-a) jej rzêdowi
-b) jej wymiarowi
-c) jej wyznacznikowi
-d) jej normie spektralnej

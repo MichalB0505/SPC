@@ -1,6 +1,8 @@
-X0010
-Je¿eli A i B przynale¿¹ do to operator AND mo¿na przedstawiæ jako:
-a) ab
-b) a+b
-c) min(a,b)
-d) max(a,b)
+X100000
+Do optymalizacji wielopoziomowej wykorzystuje sie metode
+dekompozycji i koordynacji 
+predykcji i korekcji
+identyfikacji i optymalizacji
+MNK
+agregacji i kompozycji
+dekonwolucji i przewidywania

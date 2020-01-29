@@ -1,6 +1,6 @@
-X1000
-Zadanie lokowania biegunow mozna rozwiazac 
-zarowno poprzez sprzezenie od stanu jak i wyjscia
-tylko poprzez sprzezenie zwrotne od wyjscia
-tylko poprzez sprzezenie zwrotne od stanu
-bez stosowania sprzezenia zwrotnego
+X0010
+Wersjê równania stanu, w której wystêpuj¹ wspó³czynniki wielomianu charakterystycznego nazywamy:
+postaci¹ kardynaln¹
+postaci¹ optymaln¹
+postaci¹ kanoniczn¹
+postaci¹ normaln¹

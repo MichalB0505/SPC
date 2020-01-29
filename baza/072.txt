@@ -1,6 +1,6 @@
-X0010
-Przy malejacym wspolczynniku lambda w metodzie NK:
-wariancja maleje, obciazenie rosnie
-wariancja rosnie, obciazenie rosnie
-wariancja rosnie, obciazenie maleje
-wariancja maleje, obciazenie maleje
+X1000
+Metody Zieglera-Nicolsa s³u¿¹ do:
+strojenia regulatora PID
+estymacji wektora stanu
+identyfikacji parametrów obiektu dynamicznego
+przybli¿onej analizy obiektów nieliniowych

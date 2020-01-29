@@ -1,6 +1,6 @@
-X1000
-9. Jeœli charakterystyka amplitudowo-fazowa obiektu przecina oœ rzeczywist¹ w punkcie -0.5, to jego zapas amplitudy wynosi:
-a) 0.5
-b) 1
-c) 2
-d) nieskoñczonoœæ
+X0010
+Typowy regulator rozmyty ma strukturê nieliniowego regulatora typu:
+P
+PI
+PD
+PID

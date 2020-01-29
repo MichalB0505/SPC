@@ -1,6 +1,7 @@
-X0010
-15. Wersjê równania stanu, w której wystêpuj¹ wspó³czynniki wielomianu charakterystycznego nazywamy:
-a) postaci¹ kardynaln¹
-b) postaci¹ optymaln¹
-c) postaci¹ kanoniczn¹
-d) postaci¹ normaln¹
+X01000
+W postaci kanonicznej, w ostatnim wierszu macierzy przejœcia wystêpuj¹
+wartoœci w³asne ten macierzy
+wspó³czynniki wielomianu charakterystycznego 
+wartoœci wielomianu charakterystycznego 
+wartoœci wystêpuj¹ce w warunku pocz¹tkowym
+wartoœci szczególne rozk³adu SVD

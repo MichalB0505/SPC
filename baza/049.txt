@@ -1,5 +1,6 @@
-X001
-Obserwowalnoœæ zale¿y od macierzy:
-a) A i B
-b) B i C
-c) A i C
+X1000
+Identyfikowalnosc obiektu w systemie zlozonym zalezy od parametrow
+blokow poprzedzajacych go
+blokow nastepujacych po nim
+tylko danego bloku
+wszystkich blokow systemu zlozonego

@@ -1,6 +1,6 @@
 X0001
 MFC to regulacja :
-a) rozmyta
-b) dyskretna
-c) ci¹g³a
-d) odporna
+rozmyta
+dyskretna
+ci¹g³a
+odporna

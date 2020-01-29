@@ -1,6 +1,6 @@
-X1000
-1/(s^2+1)^2 jak odpowie
-a) oscylacje, nieograniczone
-b) brak oscylacji, nieograniczony
-c) oscylacje, ograniczony
-d) brak oscylacji, ograniczony
+X0100
+Obiekt opisany rownaniem y(t) = u(t) + 1 jest
+liniowy, dynamiczny, z czasem ciaglym
+nieliniowy, statyczny, z czasem ciaglym
+nieliniowy, dynamiczny, z czasem ciaglym
+liniowy, statyczny, z czasem dyskretnym

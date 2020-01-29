@@ -1,6 +1,5 @@
 X1000
-Identyfikowalnosc obiektu w systemie zlozonym zalezy od parametrow
-blokow poprzedzajacych go
-blokow nastepujacych po nim
-tylko danego bloku
-wszystkich blokow systemu zlozonego
+Obiekt o transmitancji K(z) = z / z+1 opisuje równanie ró¿nicowe:
+y n + y n-1 = u n
+y n - y n-1 = u n
+y n = u n + u n-1

@@ -1,6 +1,6 @@
-X0100
-Zadanie lokowania biegunów okreœla siê w skrócie symbolami
-LL
-PP (pole positioning)
-BB
-TT
+X0010
+Jedn¹ z technik numerycznych NK jest:
+Metoda ortogonalizacji Hermita
+Metoda propagacji wstecznej Hausdorffa
+Metoda odbiæ Householdera
+Metoda falek Haara

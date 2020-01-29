@@ -1,6 +1,6 @@
-X1000
-Amplituda na wyjsciu przy pobudzeniu ukladu o K(s) = 1/(s+sqrt(3)) sygnalem 8sin(t+4)
-4
-2
-3
-1 
+X0010
+Zmniejszenie wspó³czynnika lambda w œledzeniu parametru obiektu metod¹ wa¿onych NK powoduje:
+wzrost wariancji, wzrost obci¹¿enia
+spadek wariancji, spadek obci¹¿enia
+wzrost wariancji, spadek obci¹¿enia
+spadek wariancji, wzrost obci¹¿enia

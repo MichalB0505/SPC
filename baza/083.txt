@@ -1,6 +1,6 @@
 X0010
-19. Zmodyfikowane zadanie optymalizacji pozwalaj¹ce na okreœlenie rozwi¹zania zadania g³ównego nazywa siê:
-a) zadaniem skojarzonym
-b) zadaniem spokrewnionym
-c) zadaniem zwi¹zanym
-d) zadaniem komplementarnym
+Która technika ma na celu sprowadzenie zadania optymalizacji z ograniczeniami do zada[....] bez ograniczeñ?
+symulowane wy¿arzanie
+metoda genetyczna
+mno¿niki Lagrangea
+rozk³ad SVD

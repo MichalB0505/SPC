@@ -1,6 +1,6 @@
-X0010
-Wyjœcie impulsatora z ekstrapolatorem to:
-a) ci¹g delt Diraca
-b) sygna³ impulsowy
-c) funkcja odcinkami sta³a
-d) delta Kroneckera
+X0100
+Warunkami zgodnosci modeli jadrowych sa:
+h -> 0,		Nh -> 0
+h -> 0,		Nh -> inf
+h -> inf, 	Nh -> 0
+h -> inf, 	Nh -> inf

@@ -1,6 +1,6 @@
-X0010
-regulator PID jest:
-a) liniowy
-b) nieliniowy
-c) liniowy, zale¿ny od nastaw
-d) nieliniowy zale¿ny od nastaw
+X1000
+Jeœli charakterystyka amplitudowo-fazowa obiektu przecina oœ rzeczywist¹ w punkcie -0.5, to jego zapas amplitudy wynosi:
+0.5
+1
+2
+nieskoñczonoœæ
