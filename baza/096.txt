@@ -1,4 +1,4 @@
-X1000
+X0001
 Kiedy opisy transmitacyjny i za pomoc¹ równañ stanu s¹ równowa¿ne?
 zawsze
 gdy obiekt jest sterowalny

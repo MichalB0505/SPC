@@ -1,6 +1,6 @@
 X0010
-Filtracja Kalmana opiera siê na naprzemiennej:
-a)identyfikacji i optymalizacji
-b)dekompozycji i koordynacji
-c) predykcji i i korekcji
-d)regularyzacji i agregacji
+W filtracji Kalmana dokonuje sie naprzemiennej
+identyfikacji i projekcji
+dekompozycji i koordynacji
+predykcji i korekcji
+fuzyfikacji i defuzyfikacji

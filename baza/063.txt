@@ -1,6 +1,6 @@
 X1000
-Identyfikowalnosc bloku w systemie zlozonym zalezy
-od wszystkich parametrow systemu zlozonego
-tylko od parametrow tego bloku
-od parametrow blokow go poprzedzajacych
-od parametrow blokow nastepujacych po nim
+Identyfikowalnosc obiektu w systemie zlozonym zalezy od parametrow
+blokow poprzedzajacych go
+blokow nastepujacych po nim
+tylko danego bloku
+wszystkich blokow systemu zlozonego
