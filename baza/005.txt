@@ -1,4 +1,4 @@
-X1000
+X001
 Po³¹czenie szeregowe dwóch bloczków stabilnych da uk³ad:
 stabilny
 niestabilny

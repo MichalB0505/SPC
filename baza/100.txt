@@ -1,5 +1,5 @@
 X1000
-Wzmocenienie obiektu o transmitancji K(s)=e^(-2s)/(s+1)^2 w stanie ustalonym wynosi:
+[img]116.png[/img]
 1
 2
 3

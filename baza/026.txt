@@ -1,4 +1,4 @@
-X0100
+X010
 Jak przesun¹æ bieguny: 
 cz³on ca³kuj¹cy i ró¿niczkuj¹cy 
 pêtla ujemnego sprzê¿enia zwrotnego
